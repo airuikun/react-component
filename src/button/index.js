@@ -1,9 +1,5 @@
-import React, { Component } from 'react';
+import Button from './Button';
+import ButtonGroup from './ButtonGroup';
 
-
-export default class Button extends Component {
-    render() {
-        return <div style={{ color: "red", fontSize: '20px', backgroundColor: "black", width: "200px" }}>@tencent/davinci-ui</div>
-    }
-}
-
+Button.Group = ButtonGroup;
+export default Button;
