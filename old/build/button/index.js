@@ -45,7 +45,7 @@ var Button = function (_Component) {
             return _react2.default.createElement(
                 'div',
                 { style: { color: "red", fontSize: '20px', backgroundColor: "black", width: "200px" } },
-                '@tencent/davinci-ui'
+                ''
             );
         }
     }]);

@@ -1,5 +1,5 @@
 {
-  "name": "@tencent/davinci-ui",
+  "name": "davinci-ui",
   "version": "1.0.1",
   "description": "",
   "main": "./build/index.js",
